@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 谷雨解字的博客</title>
-    <link>https://guyujiezi.com/tags/</link>
+    <link>https://blog.guyujiezi.com/tags/</link>
     <description>Recent content in Tags on 谷雨解字的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://guyujiezi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.guyujiezi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iOS</title>
-      <link>https://guyujiezi.com/tags/ios/</link>
+      <link>https://blog.guyujiezi.com/tags/ios/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://guyujiezi.com/tags/ios/</guid>
+      <guid>https://blog.guyujiezi.com/tags/ios/</guid>
       <description></description>
     </item>
     

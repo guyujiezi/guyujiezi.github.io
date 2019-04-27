@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iOS on 谷雨解字的博客</title>
-    <link>https://guyujiezi.com/tags/ios/</link>
+    <link>https://blog.guyujiezi.com/tags/ios/</link>
     <description>Recent content in iOS on 谷雨解字的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://guyujiezi.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.guyujiezi.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>在 iOS 设备上使用科学字体</title>
-      <link>https://guyujiezi.com/post/install-science-fonts-on-ios-devices/</link>
+      <link>https://blog.guyujiezi.com/post/install-science-fonts-on-ios-devices/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://guyujiezi.com/post/install-science-fonts-on-ios-devices/</guid>
+      <guid>https://blog.guyujiezi.com/post/install-science-fonts-on-ios-devices/</guid>
       <description>自 iOS 7.0 起，用户可以通过安装描述文件，往 iOS 系统中安装第三方字体。我们通过非常简单的操作，便可以在 iOS 设备中使用科学字体。
 制作字体 我们利用「谷雨解字」创建一个特殊的科学字体：首先，选取 GB 2312-80 标准中 3755 个一级汉字；然后，将字体 CMAP 顺序随机打乱后生成一个新的字体。
   常规字体的中文字形顺序
